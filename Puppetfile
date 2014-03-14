@@ -56,3 +56,19 @@ github "xquartz",     "1.1.1"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+
+github "vagrant",    "1.0.0"
+github "intellij",   "1.0.0"
+github "sequel_pro",   "1.0.0"
+github "macvim",   "1.0.0"
+github "chrome",   "1.0.0"
+github "alfred",   "1.0.0"
+
+github "zsh",   "1.0.0"
+github "github_for_mac",   "1.0.0"
+github "osx",   "1.0.0"
+github "iterm2",   "1.0.0"
+
+github "sourcetree",   "1.0.0"
+github "spotify",   "1.0.0"
+github "intellij",   "1.0.0"
